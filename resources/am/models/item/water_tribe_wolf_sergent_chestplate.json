@@ -1,0 +1,5 @@
+{   "parent": "item/generated",
+   "textures": {
+       "layer0": "am:items/water_tribe_wolf_sergent_chestplate"
+   }
+}

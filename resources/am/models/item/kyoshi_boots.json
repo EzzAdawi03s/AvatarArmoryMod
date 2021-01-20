@@ -1,0 +1,5 @@
+{   "parent": "item/generated",
+   "textures": {
+       "layer0": "am:items/kyoshi_boots"
+   }
+}
