@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "M",
+        "S"
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:silver_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:red_wooden_handle"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:dadao",
+        "count": 1
+    }
+}

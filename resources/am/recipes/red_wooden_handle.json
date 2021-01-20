@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "BS"
+        
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "am:wooden_handle"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:dye",
+            "data": 1
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:red_wooden_handle",
+        "count": 1
+    }
+}

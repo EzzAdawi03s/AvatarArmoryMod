@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "M",
+        "S"
+    ],
+    
+    "key":
+    {
+      
+        
+        "S":
+        {
+            "item": "am:tsuka"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:katana",
+        "count": 1
+    }
+}

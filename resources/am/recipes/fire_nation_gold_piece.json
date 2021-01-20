@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "  M",
+        "   "
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "minecraft:gold_nugget"
+        } 
+    },
+    
+    "result":
+    {
+        "item": "am:fire_nation_gold_piece",
+        "count": 1
+    }
+}

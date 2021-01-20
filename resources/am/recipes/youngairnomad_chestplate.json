@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "MMM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+      
+        "M":
+        {
+            "item": "am:yellow_metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:youngairnomad_chestplate",
+        "count": 1
+    }
+}

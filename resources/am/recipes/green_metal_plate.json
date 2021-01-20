@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "MI"
+        
+    ],
+    
+    "key":
+    {   
+        "M":
+        {
+            "item": "am:metal_plate"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:dye",
+            "data": 2
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:green_metal_plate",
+        "count": 1
+    }
+}

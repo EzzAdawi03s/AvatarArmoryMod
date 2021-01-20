@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "M",
+        "S"
+    ],
+    
+    "key":
+    {
+      
+        
+        "S":
+        {
+            "item": "am:jian_handle"
+        },
+        
+        "M":
+        {
+            "item": "am:meteorite_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:meteorite_sword",
+        "count": 1
+    }
+}

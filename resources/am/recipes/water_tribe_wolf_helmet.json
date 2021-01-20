@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "M M"
+        
+    ],
+    
+    "key":
+    {
+      
+        
+        "M":
+        {
+            "item": "am:blue_metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:water_tribe_wolf_helmet",
+        "count": 1
+    }
+}

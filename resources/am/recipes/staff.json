@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  S",
+        " S ",
+        "S  "
+    ],
+    
+    "key":
+    {
+      
+        
+        "S":
+        {
+            "item": "am:stick_for_spears"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:staff",
+        "count": 1
+    }
+}

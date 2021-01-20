@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "M",
+        "S"
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:feather"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:stilettos",
+        "count": 32
+    }
+}

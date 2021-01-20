@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M ",
+        "MM"
+        
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:blue_metal_plate"
+        } 
+    },
+    
+    "result":
+    {
+        "item": "am:boomerang",
+        "count": 1
+    }
+}

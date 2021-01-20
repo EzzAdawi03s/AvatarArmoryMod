@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " II",
+        " SI",
+        "S  "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:stick_for_spears"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:naginata",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "B",
+        "L"
+    ],
+    
+    "key":
+    {
+      
+        
+        "B":
+        {
+            "item": "minecraft:bone"
+        },
+        
+        "L":
+        {
+            "item": "am:bone_leather_gripped_handle"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:machete",
+        "count": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M",
+        "G",
+        "P"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        },
+        
+        "P":
+        {
+            "item": "minecraft:potion"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:poison_knife",
+        "count": 1
+    }
+}

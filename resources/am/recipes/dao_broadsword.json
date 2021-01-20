@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "M M",
+        "S S"
+    ],
+    
+    "key":
+    {
+       
+        
+        
+        "M":
+        {
+            "item": "am:silver_ingot"
+        },  
+        
+        "S":
+        {
+            "item": "am:red_wooden_handle"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:dao_broadsword",
+        "count": 1
+    }
+}

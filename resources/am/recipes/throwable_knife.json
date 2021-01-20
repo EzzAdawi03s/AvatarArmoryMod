@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "M",
+        "L"
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        }  ,
+        
+          "L":
+        {
+            "item": "am:red_leather_grip"
+        }
+              
+    },
+    
+    "result":
+    {
+        "item": "am:throwable_knife",
+        "count": 32
+    }
+}

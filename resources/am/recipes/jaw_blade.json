@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "WB",
+        " L"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "am:wolf_tooth"
+        },
+        
+        "B":
+        {
+            "item": "minecraft:bone"
+        },
+        
+        "L":
+        {
+            "item": "am:bone_leather_gripped_handle"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:jaw_blade",
+        "count": 1
+    }
+}

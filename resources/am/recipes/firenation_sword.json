@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I",
+        " M",
+        "S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:firenation_sword",
+        "count": 1
+    }
+}

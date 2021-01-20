@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G",
+        "P"
+        
+    ],
+    
+    "key":
+    {
+      
+        
+        "P":
+        {
+            "item": "am:earthkingdome_helmet"
+        },
+        
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:earthkingdome_captain_helmet",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "GFG"
+        
+    ],
+    
+    "key":
+    {
+      
+        
+        "G":
+        {
+            "item": "am:yellow_metal_plate"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:oak_stairs"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:war_fan",
+        "count": 1
+    }
+}

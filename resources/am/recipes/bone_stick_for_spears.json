@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  S",
+        " B ",
+        "S  "
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "am:bone_stick"
+        },
+        
+        "S":
+        {
+            "item": "am:leather_grip"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:bone_stick_for_spears",
+        "count": 1
+    }
+}

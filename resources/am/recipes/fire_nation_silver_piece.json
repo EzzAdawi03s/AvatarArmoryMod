@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "  M",
+        "   "
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:silver_ingot"
+        } 
+    },
+    
+    "result":
+    {
+        "item": "am:fire_nation_silver_piece",
+        "count": 9
+    }
+}

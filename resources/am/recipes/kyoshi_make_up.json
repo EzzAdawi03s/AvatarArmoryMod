@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "XGX",
+        "CZC",
+        "ZZZ"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "X":
+        {
+            "item": "am:green_metal_plate"
+        },
+        
+        "Z":
+        {
+            "item": "minecraft:dye",
+            "data": 15
+        },
+        
+        "C":
+        {
+            "item": "minecraft:dye",
+            "data": 1
+        }
+        
+        
+             
+    },
+    
+    "result":
+    {
+        "item": "am:kyoshi_make_up",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "H"
+      
+    ],
+    
+    "key":
+    {
+      
+        
+        "H":
+        {
+            "item": "am:water_tribe_wolf_sergent_helmet"
+        },
+        
+        "D":
+        {
+            "item": "am:wolf_tail"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:water_tribe_wolf_general_helmet",
+        "count": 1
+    }
+}

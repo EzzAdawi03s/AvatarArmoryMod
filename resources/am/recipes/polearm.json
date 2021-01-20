@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " MI",
+        " SM",
+        "S  "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:stick_for_spears"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:polearm",
+        "count": 1
+    }
+}

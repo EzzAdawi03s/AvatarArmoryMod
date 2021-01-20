@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "B",
+        "B"
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "minecraft:bone"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:bone_handle",
+        "count": 1
+    }
+}

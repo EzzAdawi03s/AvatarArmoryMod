@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "BH"
+        
+    ],
+    
+    "key":
+    {   
+        "H":
+        {
+            "item": "am:blue_heavy_ball"
+        },
+        
+        "B":
+        {
+            "item": "am:machete"
+            
+        }
+               
+    },
+    
+    "result":
+    {
+        "item": "am:battle_club",
+        "count": 1
+    }
+}

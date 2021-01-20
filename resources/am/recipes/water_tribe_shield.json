@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BIB",
+        "IOI",
+        "BIB"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "am:blue_metal_plate"
+        },
+        
+        "B":
+        {
+            "item": "am:bone_stick"
+        },
+        
+        "O":
+        {
+            "item": "am:blue_heavy_ball"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:water_tribe_shield",
+        "count": 1
+    }
+}

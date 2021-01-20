@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TVT",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "V":
+        {
+            "item": "am:leather_grip"
+        },
+        
+        "S":
+        {
+            "item": "am:wooden_handle"
+        },
+        
+        "T":
+        {
+            "item": "minecraft:cobblestone"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:hammer",
+        "count": 1
+    }
+}

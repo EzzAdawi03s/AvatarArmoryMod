@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "SBS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+       "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+         
+        "B":
+        {
+            "item": "am:wooden_handle"
+        },
+        
+        "S":
+        {
+            "item": "am:black_leather_grip"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:tsuka",
+        "count": 1
+    }
+}

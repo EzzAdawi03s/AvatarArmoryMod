@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "M",
+        "S"
+    ],
+    
+    "key":
+    {
+      
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:bone_handle"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:metal_knife",
+        "count": 1
+    }
+}

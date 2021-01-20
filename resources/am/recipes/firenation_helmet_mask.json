@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "F",
+        "I"
+        
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        
+        "F":
+        {
+            "item": "am:firenation_helmet"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:firenation_helmet_mask",
+        "count": 1
+    }
+}

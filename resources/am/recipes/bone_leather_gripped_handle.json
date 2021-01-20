@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GBG",
+        "GBG",
+        "GBG"
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "minecraft:bone"
+        },
+        
+        "G":
+        {
+            "item": "am:leather_grip"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:bone_leather_gripped_handle",
+        "count": 3
+    }
+}

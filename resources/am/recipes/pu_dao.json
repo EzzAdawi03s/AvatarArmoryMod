@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " II",
+        " S ",
+        "S  "
+    ],
+    
+    "key":
+    {
+      
+        
+        "S":
+        {
+            "item": "am:stick_for_spears"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:pu_dao",
+        "count": 1
+    }
+}

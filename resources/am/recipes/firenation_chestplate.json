@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "MMM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+       
+        "M":
+        {
+            "item": "am:red_metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:firenation_chestplate",
+        "count": 1
+    }
+}

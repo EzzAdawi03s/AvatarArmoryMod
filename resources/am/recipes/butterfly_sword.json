@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I ",
+        "I ",
+        "SG"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:wooden_handle"
+        },
+        
+        "G":
+        {
+            "item": "am:golden_guard"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:butterfly_sword",
+        "count": 1
+    }
+}

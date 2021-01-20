@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " M ",
+        "   ",
+        "   "
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:silver_ingot"
+        } 
+    },
+    
+    "result":
+    {
+        "item": "am:earth_kingdome_silver_coins",
+        "count": 9
+    }
+}

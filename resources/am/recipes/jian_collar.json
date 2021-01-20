@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        " S "
+        
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:metal_ingot"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:jian_collar",
+        "count": 1
+    }
+}

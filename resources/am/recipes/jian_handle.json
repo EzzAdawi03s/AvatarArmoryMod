@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B",
+        "S"
+        
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "am:jian_collar"
+        },
+        
+        "S":
+        {
+            "item": "am:wooden_handle"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:jian_handle",
+        "count": 1
+    }
+}

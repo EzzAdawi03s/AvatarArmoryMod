@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "  L",
+        " L ",
+        "L  "
+    ],
+    
+    "key":
+    {
+        
+        
+        "L":
+        {
+            "item": "minecraft:stick"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:stick_for_spears",
+        "count": 3
+    }
+}

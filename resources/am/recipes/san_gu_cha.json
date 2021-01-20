@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        "M M",
+        "S S"
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:red_wooden_handle"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:san_gu_cha",
+        "count": 1
+    }
+}

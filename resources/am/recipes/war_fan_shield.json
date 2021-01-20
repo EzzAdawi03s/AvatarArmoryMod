@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        
+        " Y ",
+        "GGG"
+    ],
+    
+    "key":
+    {
+      
+        
+        "G":
+        {
+            "item": "am:yellow_metal_plate"
+        },
+        
+        "Y":
+        {
+            "item": "am:war_fan"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:war_fan_shield",
+        "count": 1
+    }
+}

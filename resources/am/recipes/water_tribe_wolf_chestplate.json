@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "MMM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+      
+        "M":
+        {
+            "item": "am:blue_metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:water_tribe_wolf_chestplate",
+        "count": 1
+    }
+}

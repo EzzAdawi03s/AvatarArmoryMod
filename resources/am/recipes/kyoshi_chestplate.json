@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "TMT",
+        "TMT"
+    ],
+    
+    "key":
+    {
+      
+        
+        "T":
+        {
+            "item": "am:green_metal_plate"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:kyoshi_chestplate",
+        "count": 1
+    }
+}

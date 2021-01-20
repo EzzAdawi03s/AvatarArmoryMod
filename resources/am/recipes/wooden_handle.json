@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SBS",
+        "SBS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        
+        "B":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "S":
+        {
+            "item": "am:leather_grip"
+        }      
+    },
+    
+    "result":
+    {
+        "item": "am:wooden_handle",
+        "count": 1
+    }
+}

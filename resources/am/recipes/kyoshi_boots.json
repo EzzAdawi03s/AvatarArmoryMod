@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M M",
+        "T T"
+        
+    ],
+    
+    "key":
+    {
+      
+        
+        "T":
+        {
+            "item": "am:metal_plate"
+        },
+        
+        "M":
+        {
+            "item": "am:green_metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:kyoshi_boots",
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " MM",
+        " SM",
+        "S  "
+    ],
+    
+    "key":
+    {
+      
+        
+        "M":
+        {
+            "item": "am:silver_ingot"
+        },
+        
+        "S":
+        {
+            "item": "am:stick_for_spears"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:jii",
+        "count": 1
+    }
+}

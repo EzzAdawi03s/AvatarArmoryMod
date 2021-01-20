@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GGG",
+        "GGG",
+        "GGG"
+    ],
+    
+    "key":
+    {
+      
+        
+        "G":
+        {
+            "item": "am:metal_ingot"
+        }       
+    },
+    
+    "result":
+    {
+        "item": "am:metal_block",
+        "count": 1
+    }
+}

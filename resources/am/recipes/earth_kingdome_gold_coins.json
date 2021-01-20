@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " M ",
+        "   ",
+        "   "
+    ],
+    
+    "key":
+    {
+        
+        
+        "M":
+        {
+            "item": "minecraft:gold_nugget"
+        } 
+    },
+    
+    "result":
+    {
+        "item": "am:earth_kingdome_gold_coins",
+        "count": 1
+    }
+}

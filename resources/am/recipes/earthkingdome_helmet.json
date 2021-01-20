@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "M M"
+        
+    ],
+    
+    "key":
+    {
+      
+        "M":
+        {
+            "item": "am:green_metal_plate"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:earthkingdome_helmet",
+        "count": 1
+    }
+}

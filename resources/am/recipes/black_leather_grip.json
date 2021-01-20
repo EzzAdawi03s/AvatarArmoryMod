@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MM ",
+        "MMI",
+        "MM "
+    ],
+    
+    "key":
+    {   
+        "M":
+        {
+            "item": "am:leather_grip"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:dye",
+            "data": 0
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:black_leather_grip",
+        "count": 6
+    }
+}

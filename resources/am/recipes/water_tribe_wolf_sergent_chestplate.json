@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "D",
+        "H"
+        
+    ],
+    
+    "key":
+    {        
+        "H":
+        {
+            "item": "am:water_tribe_wolf_chestplate"
+        },
+        
+        "D":
+        {
+            "item": "am:blue_heavy_ball"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:water_tribe_wolf_sergent_chestplate",
+        "count": 1
+    }
+}

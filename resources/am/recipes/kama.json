@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MM",
+        "M ",
+        "S "
+    ],
+    
+    "key":
+    {
+      
+        
+        "S":
+        {
+            "item": "am:red_leather_grip"
+        },
+        
+        "M":
+        {
+            "item": "am:metal_ingot"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:kama",
+        "count": 1
+    }
+}

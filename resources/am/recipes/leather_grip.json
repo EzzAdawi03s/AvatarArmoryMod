@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL",
+        " LL",
+        "  L"
+    ],
+    
+    "key":
+    {
+        
+        
+        "L":
+        {
+            "item": "minecraft:leather"
+        }        
+    },
+    
+    "result":
+    {
+        "item": "am:leather_grip",
+        "count": 24
+    }
+}
